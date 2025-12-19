@@ -1,0 +1,11 @@
+total 11008
+210757095     0 drwxr-xr-x@ 10 cash  staff      320 22 nov 16:32 [34m.[m[m
+205382160     0 drwxr-xr-x@ 15 cash  staff      480 21 nov 13:08 [34m..[m[m
+210760217    16 -rw-r--r--@  1 cash  staff     6148  3 nov 11:06 .DS_Store
+210758341     0 drwxr-xr-x@  9 cash  staff      288  3 nov 11:30 [34m.idea[m[m
+212821484     0 drwxr-xr-x   3 cash  staff       96 21 nov 17:58 [34m.ipynb_checkpoints[m[m
+210757124     0 drwxr-xr-x@  7 cash  staff      224  3 nov 10:55 [34m.venv[m[m
+212821483    32 -rw-r--r--   1 cash  staff    14229 22 nov 16:31 cursoPydantic.ipynb
+212850720     0 -rw-r--r--   1 cash  staff        0 22 nov 16:32 output.txt
+210759662     0 drwxrwxr-x@ 52 cash  staff     1664 27 oct 16:56 [34myoutube-tutorials-main[m[m
+210759634 10960 -rw-r--r--@  1 cash  staff  5607521  3 nov 10:57 youtube-tutorials-main.zip
